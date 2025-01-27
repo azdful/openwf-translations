@@ -23,7 +23,7 @@ dict = {
 	marker_obj: `Objective`,
 	marker_target: `Target`,
 	marker_surcap: `Life Support Capsule`,
-	marker_surpup: `Life Support Pickup`,
+	marker_surpup: `Life Support Module`,
 	marker_a: `A`,
 	marker_b: `B`,
 	marker_c: `C`,
